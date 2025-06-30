@@ -19,5 +19,5 @@ Here are some projects I'm working on or plan to:
 - *Coming soon: Web applications and C++ projects*
 
 ## 📫 Contact Me
-- Email: *[your-email@example.com]*
-- Telegram: *[@yourTelegramHandle]
+- Email: *sjojo0107@gmail.com*
+- Telegram: *@s_joe_03*
